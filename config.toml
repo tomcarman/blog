@@ -1,4 +1,4 @@
-baseURL = 'https://tomcarman.github.io/blog'
+baseURL = 'https://blog.tomcarman.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Tom Carman Blog'
 theme = 'introduction'
