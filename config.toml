@@ -205,7 +205,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "photography"
     name = "photography"
-    url = "http//tom.carman.photos/"
+    url = "https://tom.carman.photos/"
     weight = 15
 
   [[menu.main]]
