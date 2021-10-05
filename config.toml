@@ -1,6 +1,6 @@
 baseURL = "https://blog.tomcarman.com"
 title   = "Hello World"
-languageCode = "en-us"
+# languageCode = "en-us"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
