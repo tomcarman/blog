@@ -1,4 +1,4 @@
-baseURL = "https://blog.tomcarman.com"
+baseURL = "https://tomcarman.com"
 title   = "Tom Carman"
 languageCode = "en-us"
 theme = "hello-friend-ng"
