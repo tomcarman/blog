@@ -155,7 +155,7 @@ disableHugoGeneratorInject = false
   [params.portrait]
     path     = "/tomcarman.png"
     alt      = "portrait"
-    maxWidth = "50px"
+    maxWidth = "200px"
 
   # Social icons
   [[params.social]]
