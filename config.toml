@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Software Engineer // Salesforce // Consultant"
+  homeSubtitle = "software engineer // salesforce // consultant"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
