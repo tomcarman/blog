@@ -1,6 +1,6 @@
 baseURL = "https://blog.tomcarman.com"
 title   = "Hello World"
-# languageCode = "en-us"
+languageCode = "en-us"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
@@ -94,7 +94,7 @@ disableHugoGeneratorInject = false
   #
   # Enables the global language menu.
   #
-  enableGlobalLanguageMenu = true
+  # enableGlobalLanguageMenu = true
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -155,7 +155,7 @@ disableHugoGeneratorInject = false
   [params.portrait]
     path     = "/img/tomcarman.png"
     alt      = "Tom Carman"
-    maxWidth = "50px"
+    maxWidth = "200px"
 
   # Social icons
   [[params.social]]
