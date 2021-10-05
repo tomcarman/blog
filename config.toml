@@ -1,5 +1,5 @@
 baseURL = "https://blog.tomcarman.com"
-title   = "Hello World"
+title   = "Tom Carman"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -8,8 +8,8 @@ PygmentsStyle = "monokai"
 
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-
+# copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+copyright = "<a href=\"https://creativecommons.org/licenses/by-nc/4.0/"\>CC BY-NC 4.0</a>"
 # googleAnalytics = ""
 # disqusShortname = ""
 
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "This is my blog"
+  homeSubtitle = "Software Engineer // Salesforce // Consultant "
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
