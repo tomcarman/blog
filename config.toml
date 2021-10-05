@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "software engineer // photographer // salesforce // consultant"
+  homeSubtitle = "salesforce engineer // consultant // photographer"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -195,6 +195,12 @@ disableHugoGeneratorInject = false
   #  copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name       = "home"
+    url        = "/"
+    weight     = 1
 
   [[menu.main]]
     identifier = "blog"
