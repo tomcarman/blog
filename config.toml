@@ -164,6 +164,10 @@ disableHugoGeneratorInject = false
     url  = "https://twitter.com/tomcarman"
 
   [[params.social]]
+    name = "instagram"
+    url  = "https://instagram.com/tomcarman"
+
+  [[params.social]]
     name = "email"
     url  = "mailto:tom.carman@gmail.com"
 
